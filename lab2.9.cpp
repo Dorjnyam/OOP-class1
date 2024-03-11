@@ -6,6 +6,7 @@ int main()
 	int a;
 	cout<<"garaas ogoh utga: ";
 	cin>>a;
+	cout<<a<<endl;
 	/*haygan huvisagchid haygin utgiig onooh heseg*/
 	int *p1=&a;
 	int **p2=&p1;
